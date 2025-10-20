@@ -21,5 +21,5 @@ Introduced to cloud computing concepts and Microsoft Azure, focusing on how clou
 Developed essential programming and analytical skills in Python, including data manipulation and basic automation techniques.
 
 ## Summary
-Over the past eight weeks, I have built a strong foundation
+Over the past eight weeks, I have built a strong foundation in data analysis, learning how to collect, manage, visualise, and interpret data using a range of industry tools. This journey has strengthened both my technical and analytical skills, preparing me for more advanced projects in the field of data analytics.
 
