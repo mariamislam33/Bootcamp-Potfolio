@@ -4,6 +4,7 @@
 This repository documents my progress and learning over the past eight weeks as I explored key concepts and tools in data analysis and technology.
 
 ![Overview Screenshot](images/image9.png)
+![Overview Screenshot](images/image10.png)
 
 ## Weekly Summary
 
